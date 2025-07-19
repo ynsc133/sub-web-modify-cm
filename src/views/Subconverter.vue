@@ -333,7 +333,6 @@ export default {
         },
         shortTypes: {
           "v1.mk": "https://v1.mk/short",
-          "yn.tk": "https://u.ynsc.tk",
           "d1.mk": "https://d1.mk/short",
           "dlj.tf": "https://dlj.tf/short",
           "suo.yt": "https://suo.yt/short",
